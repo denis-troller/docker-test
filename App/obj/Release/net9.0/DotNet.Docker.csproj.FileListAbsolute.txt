@@ -1,0 +1,14 @@
+C:\Users\denis.troller\source\repos\docker-test\App\bin\Release\net9.0\DotNet.Docker.exe
+C:\Users\denis.troller\source\repos\docker-test\App\bin\Release\net9.0\DotNet.Docker.deps.json
+C:\Users\denis.troller\source\repos\docker-test\App\bin\Release\net9.0\DotNet.Docker.runtimeconfig.json
+C:\Users\denis.troller\source\repos\docker-test\App\bin\Release\net9.0\DotNet.Docker.dll
+C:\Users\denis.troller\source\repos\docker-test\App\bin\Release\net9.0\DotNet.Docker.pdb
+C:\Users\denis.troller\source\repos\docker-test\App\obj\Release\net9.0\DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis.troller\source\repos\docker-test\App\obj\Release\net9.0\DotNet.Docker.AssemblyInfoInputs.cache
+C:\Users\denis.troller\source\repos\docker-test\App\obj\Release\net9.0\DotNet.Docker.AssemblyInfo.cs
+C:\Users\denis.troller\source\repos\docker-test\App\obj\Release\net9.0\DotNet.Docker.csproj.CoreCompileInputs.cache
+C:\Users\denis.troller\source\repos\docker-test\App\obj\Release\net9.0\DotNet.Docker.dll
+C:\Users\denis.troller\source\repos\docker-test\App\obj\Release\net9.0\refint\DotNet.Docker.dll
+C:\Users\denis.troller\source\repos\docker-test\App\obj\Release\net9.0\DotNet.Docker.pdb
+C:\Users\denis.troller\source\repos\docker-test\App\obj\Release\net9.0\DotNet.Docker.genruntimeconfig.cache
+C:\Users\denis.troller\source\repos\docker-test\App\obj\Release\net9.0\ref\DotNet.Docker.dll
